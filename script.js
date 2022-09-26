@@ -1,0 +1,1 @@
+alert("El proyecto aun no cuenta con un menu responsive")
